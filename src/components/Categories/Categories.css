@@ -2,7 +2,7 @@
 
 .categories-container {
   padding: 20px;
-  background-color: #f9f9f9;
+  background-color: black;
 }
 
 .categories-container h2 {
@@ -20,4 +20,5 @@
 .categories-container li {
   margin: 10px;
   font-size: 1.2em;
+  color: #a38a00;
 }
