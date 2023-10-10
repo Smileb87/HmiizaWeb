@@ -1,0 +1,28 @@
+/* src/components/Hero/Hero.css */
+
+.hero-container {
+  background-color: black;
+  color: gold;
+  font-family: "Arial", sans-serif; /* Adjust to your desired font */
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-cta {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: gold;
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.hero-cta:hover {
+  background-color: darkgoldenrod;
+}
