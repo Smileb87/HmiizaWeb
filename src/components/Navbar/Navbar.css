@@ -14,7 +14,7 @@
 }
 
 .navbar-logo {
-  height: 50px;
+  height: 250px;
 }
 
 .navbar-content ul {
@@ -24,7 +24,7 @@
 }
 
 .navbar-content a {
-  color: white;
+  color: #a38a00;
   text-decoration: none;
   font-weight: bold;
 }

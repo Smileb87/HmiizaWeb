@@ -1,0 +1,16 @@
+.home-logo-animation {
+  opacity: 0;
+  animation: fadeInAndOut 5s forwards;
+}
+
+@keyframes fadeInAndOut {
+  0% {
+    opacity: 0; /* Start with opacity 0 */
+  }
+  50% {
+    opacity: 1; /* Fade in halfway through (at 2.5s) */
+  }
+  100% {
+    opacity: 0; /* Fade out at the end (at 5s) */
+  }
+}
